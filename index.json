@@ -3,5 +3,7 @@
   "appcake_pp": "https://github.com/CrafterPika/ppsideloader_py/raw/files/Tweak/appcakepp.zip",
   "spotify": "https://github.com/CrafterPika/ppsideloader_py/raw/files/IPA/Spotify_8.4.43.ipa",
   "libSpotilife": "https://github.com/CrafterPika/ppsideloader_py/raw/files/Tweak/libSpotilife.zip",
-  "libSposify": "https://github.com/CrafterPika/ppsideloader_py/raw/files/Tweak/libSposify.zip"
+  "libSposify": "https://github.com/CrafterPika/ppsideloader_py/raw/files/Tweak/libSposify.zip",
+  "ZipAppLite": "https://github.com/CrafterPika/ppsideloader_py/raw/files/IPA/ZipAppLite_4.0.2.ipa",
+  "ZipAppLite_pp": "https://github.com/CrafterPika/ppsideloader_py/raw/files/Tweak/libZipAppLite.zip"
 }
